@@ -1,2 +1,0 @@
-# FitnessGym
-myrepo
